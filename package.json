@@ -1,0 +1,45 @@
+{
+
+
+  "name": "puppeter-intro",
+
+
+  "version": "1.0.0",
+
+
+  "description": "",
+
+
+  "main": "index.js",
+
+
+  "type": "module",
+
+
+  "scripts": {},
+
+
+  "keywords": [],
+
+
+  "author": "",
+
+
+  "license": "ISC",
+
+
+  "dependencies": {
+
+
+    "cheerio": "^1.0.0-rc.12",
+
+
+    "puppeteer": "^20.5.0"
+
+
+  }
+
+
+}
+
+
